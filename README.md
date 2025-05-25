@@ -15,4 +15,4 @@ A FLIGHT belongs to an AIRLINE.
 A FLIGHT has one or more CLASS types (Economy or Business).
 A TICKET is received after a PAYMENT is made.
 A TICKET is associated with one FLIGHT and one TRAVELLER.
-# The ERD uses diamonds for relationships (e.g., "check for," "book," "cancel," "has," "belongs to," "receive") and ovals for attributes, with primary keys underlined. A triangle indicates the generalization of CLASS into Economy and Business.
+ The ERD uses diamonds for relationships (e.g., "check for," "book," "cancel," "has," "belongs to," "receive") and ovals for attributes, with primary keys underlined. A triangle indicates the generalization of CLASS into Economy and Business.
